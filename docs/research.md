@@ -8,7 +8,7 @@
     <div class="timeline-header">
       <span class="timeline-org"> MVAIT Lab, LKC School of Medicine (Imperial & NTU) </span>
       <span class="timeline-role"> Global Connect Fellow </span>
-      <span class="timeline-dates">May 2025 – Aug 2025 <strong class="text-accent">Present</strong></span>
+      <span class="timeline-dates">May 2025 – Aug 2025
     </div>
     <div class="timeline-desc">Fine-tuned adversarial multiclass segmentation models for retinal fundus images to extract anatomical features for osteoporosis classification. Built a comprehensive data preprocessing pipeline in Jupyter to identify clinically relevant features and regions by adapting and building algorithms </div>
   </div>
