@@ -29,8 +29,13 @@
 
 
 
-I'm Chiara ....
+## About me
+I am Chiara Capobianco, a master student at ETH Zurich pursuing a degree in Biomedical Engineering, focusing on Bioimaging. I have held positions as a research student at ETH and NTU Singapore, where I contributed to projects in medical imaging and deep learning. My passion lies in leveraging technology to enhance healthcare outcomes. I am enthusiastic about collaborating on innovative projects that merge engineering and medicine to drive advancements in healthcare.
 
-Previously, 
+I currently work as a teacher assistant TA for the course "Human Values & Artificial Intelligence"(350+ students): supporting weekly with
+class preparation, assignment development, and exam grading.
 
-P.S. 
+## Research Interests
+- Xray Imaging
+- Medical Image Analysis
+- Ethics in AI
